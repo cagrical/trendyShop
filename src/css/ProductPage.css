@@ -1,0 +1,88 @@
+.product-page {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+  min-height: 100vh;
+  overflow: hidden;
+  /* İçerik taşmasını engellemek için */
+}
+
+.product-images {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 2rem;
+  position: relative;
+}
+
+.image-container {
+  position: relative;
+}
+
+.product-images img {
+  max-width: 400px;
+  margin-bottom: 1rem;
+}
+
+.shipping-info {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  display: flex;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+
+.shipping-info span {
+  color: white;
+  margin-left: 0.5rem;
+}
+
+.product-info {
+  flex: 1;
+}
+
+.product-info h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  font-weight: normal;
+}
+
+.product-info p {
+  margin-bottom: 0.5rem;
+}
+
+.product-info .price {
+  font-weight: bold;
+}
+
+.product-info button {
+  background-color: rgb(64, 184, 184);
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  margin-right: 1rem;
+}
+
+.product-info button:hover {
+  background-color: rgb(50, 150, 150);
+}
+
+.product-info .MuiIconButton-root {
+  padding: 0;
+}
+
+.product-info .favorite-button {
+  background: transparent;
+  border: none;
+  color: rgb(64, 184, 184);
+  cursor: pointer;
+  font-size: 2rem;
+}
+
+.product-info .favorite-button:hover {
+  color: rgb(54, 164, 164);
+}
