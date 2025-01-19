@@ -2,14 +2,16 @@
 
 This project is an e-commerce platform built with React and Vite, offering a modern shopping experience with a focus on fashion and lifestyle products.
 ### Home Page
-![trendyShopHomePage](https://github.com/user-attachments/assets/df5d8a5c-f2ad-4778-a7db-5cef79cb6859)
-### Login/Register Page
-![trendyShopLogin](https://github.com/user-attachments/assets/c597b655-b728-42ff-a84f-a8ef9e1b6fba)
-### Dropdown Menu
-![trendyShopDropdown](https://github.com/user-attachments/assets/4d4f8053-3f69-44cb-9916-c0d25a76f19c)
-### Product Details
-![productDetails](https://github.com/user-attachments/assets/676e82ef-95e7-461c-b0b1-83168a80292f)
+![trendyShopHomePage](https://github.com/user-attachments/assets/a5bbe8c7-7af9-42ea-93e1-967f2dfe7b0f)
 
+### Login/Register Page
+![trendyShopLogin](https://github.com/user-attachments/assets/608132a2-4afc-4f75-b27b-6e452a2524a0)
+
+### Dropdown Menu
+![trendyShopDropdown](https://github.com/user-attachments/assets/49be0416-9b6c-4b14-b015-0bdd9be2a40f)
+
+### Product Details
+![productDetails](https://github.com/user-attachments/assets/29d369ab-ef6e-413f-9dbf-969ccf583220)
 
 ## About the Project
 
